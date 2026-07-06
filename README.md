@@ -1,16 +1,25 @@
-## Hi there 👋
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!--
-**Nithruja/Nithruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+              NITHRUJA
 
-Here are some ideas to get you started:
+Software Engineer • Flutter Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 About Me
+
+Creating innovative applications,
+AI-powered solutions,
+and impactful developer communities.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Skills
+
+▣ Flutter
+▣ Java
+▣ Python
+▣ Firebase
+▣ AI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
